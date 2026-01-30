@@ -35,3 +35,10 @@ Issues were analyzed across the following categories:
 - Reduced customer effort
 - Lower support contact volume
 - Improved product reliability and customer satisfaction
+
+## Key Metrics & KPIs Monitored
+- Customer support contact rate
+- Defect and failure rate
+- Mean time to resolution (MTTR)
+- Customer satisfaction (CSAT)
+- Product reliability and repeat issue frequency
