@@ -5,6 +5,16 @@ This project demonstrates a product quality investigation using root cause analy
 (Fishbone/Ishikawa) to identify issues, analyze customer support data, and propose
 preventative product improvements.
 
+## About Me
+
+I approach product quality and customer experience problems by combining data analysis,
+root cause analysis, and preventative thinking. My focus is on minimizing customer effort,
+reducing repeat issues, and aligning product improvements with measurable business outcomes.
+
+This project reflects how I work as a product quality owner—using structured frameworks
+such as Fishbone/Ishikawa and KPI-driven decision-making to improve product reliability
+and support efficiency.
+
 ## Problem Statement
 Recurring product issues led to increased customer support contacts, reduced customer
 satisfaction, and operational inefficiencies.
@@ -42,3 +52,10 @@ Issues were analyzed across the following categories:
 - Mean time to resolution (MTTR)
 - Customer satisfaction (CSAT)
 - Product reliability and repeat issue frequency
+
+
+
+## Supporting Materials
+Detailed analysis, datasets (Excel), and supporting documentation were used as part of this
+project. Due to data sensitivity and clarity, summarized insights are presented here.
+Supporting materials are available upon request.
